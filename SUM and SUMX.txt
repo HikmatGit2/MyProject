@@ -1,0 +1,6 @@
+SUM:
+Use SUM when you want to calculate the total of a single column, such as the total sales amount for a given month or the total number of customers.
+SUMX:
+Use SUMX when you need to perform calculations on each row before summing the results, such as calculating the total revenue for each product by multiplying the quantity sold by the price per unit
+
+SUM can be the perfect choice for simple aggregative calculations within a single column like totals or sub-totals. SUMX is the best for the row calculations or applying filters on the data.
